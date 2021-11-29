@@ -1,4 +1,4 @@
-- 👋 Seja bem-vindo ao meu perfil no GitHub. Meu nome é Gabriel Morais. Sou Graduado em Administração ( http://lattes.cnpq.br/5787982746175884), ex=bolsista de pesquisa científica. 
+- 👋 Seja bem-vindo ao meu perfil no GitHub. Meu nome é Gabriel Morais. Sou Graduado em Administração ( http://lattes.cnpq.br/5787982746175884), ex-bolsista de pesquisa científica. 
 Atualmente, sou pós-graduando em Inteligência Artifical e Aprendizado de Máquina pela PUC-Minas. Possuo conhecimentos em metodologias ágeis de startups (lean startup,
 lean customer development, lean analytics, lean ux, lean canvas) além dos principais frameworks ágeis (scrum, sprint, etc).
 
